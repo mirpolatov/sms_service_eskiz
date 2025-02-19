@@ -15,7 +15,7 @@ schema_view = get_schema_view(
       title="SMS Service API",
       default_version='v1.0',
       description="SMS service created using Eskiz sms service",
-      terms_of_service="https://github.com/mirpolatov",
+      terms_of_service="https://github.com/mirpolatov/sms_service_eskiz",
       contact=openapi.Contact(email="mirazizmirpolatov9@gmail.com"),
       license=openapi.License(name="BSD License"),
    ),
